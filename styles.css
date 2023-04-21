@@ -8,14 +8,13 @@ body {
     background-color: rgb(188, 255, 233);
     padding-bottom: 25px;
 }
-
+/* background-color: rgb(167, 243, 218);*/
 #main {
     width: 98%;
     margin-top: 2em;
     border-radius: 3px;
-    background-color: rgb(167, 243, 218);
+    background-image: scr(https://i.pinimg.com/736x/f0/bd/f9/f0bdf9049bbf5f639448a0f00d43fd77.jpg) ;
     border: 0 auto;
-
 }
 
 #img-div {

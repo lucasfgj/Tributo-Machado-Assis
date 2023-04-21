@@ -13,7 +13,7 @@ body {
     width: 98%;
     margin-top: 2em;
     border-radius: 3px;
-    background-image: url(https://i.pinimg.com/736x/f0/bd/f9/f0bdf9049bbf5f639448a0f00d43fd77.jpg);
+    background-image: url(https://i.pinimg.com/736x/f0/bd/f9/f0bdf9049bbf5f639448a0f00d43fd77.jpg) no-repeat;
     border: 0 auto;
 }
 
